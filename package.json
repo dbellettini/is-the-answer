@@ -4,7 +4,7 @@
   "description": "Tells if a given value is the answer to life the universe and everything",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/mocha -w"
+    "test": "node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
